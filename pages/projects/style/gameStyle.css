@@ -1,0 +1,11 @@
+.scaryWeb h1 {
+    color: crimson;
+    text-decoration: dotted;
+    text-shadow: 15rem;
+    text-decoration-color: crimson;
+}
+
+.scaryWeb {
+    font-family: Workbench, serif ;
+    font-weight: 100;
+}
